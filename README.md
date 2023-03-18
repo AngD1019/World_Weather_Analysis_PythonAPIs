@@ -15,13 +15,33 @@ This project involved the addition of the weather description to the weather dat
 
 ### Deliverable 1: Retrieve Weather Data
 
-To generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with OpenWeatherMap. In addition to the city weather data gathered previously, I used my API skills to retrieve the current weather description for each city. Then, created a new DataFrame containing the updated weather data.
+In this deliverable, I generated a set of 2,000 random latitudes and longitudes, retrieved the nearest city, and performed an API call with OpenWeatherMap. In addition to the city weather data gathered previously, I used my API skills to retrieve the current weather description for each city. Then, created a new DataFrame containing the updated weather data.
+
+See the dataframe of weather data below:
 
 <img width="785" alt="Deliv1_DF" src="https://user-images.githubusercontent.com/114960958/226145736-67c925b5-603c-4c5a-90b2-a0c04f5dc5a6.png">
 
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
 
+I employed input statements to retrieve customer weather preferences. Next, used those preferences to identify potential travel destinations and nearby hotels. Finally, showed those destinations on a map.
 
+See the dataframe including cleaned hotel data below:
+
+<img width="779" alt="Deliv2_DF" src="https://user-images.githubusercontent.com/114960958/226145844-7ae10bb0-baf9-48b5-851c-236606e2920f.png">
+
+GeoViews map displaying a point for each city in above dataframe:
+
+<img width="461" alt="Deliv2_GeoViewsMappng" src="https://user-images.githubusercontent.com/114960958/226145923-b4765c13-5bb2-4255-9bfb-be44627c215e.png">
 
 ### Deliverable 3: Create a Travel Itinerary Map
+
+I used the Geoapify Routing API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, created a map with a pop-up marker for each city on the itinerary.
+
+See itinerary dataframe below:
+
+<img width="324" alt="Deliv3_itinerarydf" src="https://user-images.githubusercontent.com/114960958/226145984-abb210cd-f10d-44d3-b039-02b6e5b2ca73.png">
+
+GeoViews Map Showing 4 Cities from Itinerary:
+
+<img width="324" alt="Deliv3_itinerarydf" src="https://user-images.githubusercontent.com/114960958/226146058-1c9e78b1-093e-4cb7-8634-74a63b0471b5.png">
