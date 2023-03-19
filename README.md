@@ -40,14 +40,10 @@ I used the Geoapify Routing API to create a travel itinerary that shows the rout
 
 See itinerary dataframe below:
 
-<img width="324" alt="Deliv3_itinerarydf" src="https://user-images.githubusercontent.com/114960958/226145984-abb210cd-f10d-44d3-b039-02b6e5b2ca73.png">
+<img width="553" alt="Deliv3Brazil" src="https://user-images.githubusercontent.com/114960958/226146309-04b72027-079d-4321-bb84-26d07c45a89d.png">
 
-<img width="571" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/114960958/226146205-a833a4b4-0ad4-471c-b867-72a42adac7c5.png">
+GeoViews Map Showing 4 Cities from Itinerary and Itinerary Route:
 
 <img width="560" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/114960958/226146208-104d196b-18b2-4e76-bf02-a119ea534ca6.png">
 
-![WeatherPy_vacation_map](https://user-images.githubusercontent.com/114960958/226146218-c6f2dfaa-520e-4866-9432-f31a95ffa58a.png)
-
-GeoViews Map Showing 4 Cities from Itinerary:
-
-<img width="324" alt="Deliv3_itinerarydf" src="https://user-images.githubusercontent.com/114960958/226146058-1c9e78b1-093e-4cb7-8634-74a63b0471b5.png">
+<img width="571" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/114960958/226146205-a833a4b4-0ad4-471c-b867-72a42adac7c5.png">
